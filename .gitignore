@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+data/*.sqlite
+data/audit.jsonl
+.pytest_cache/
+.DS_Store
