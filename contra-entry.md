@@ -14,4 +14,4 @@ I built an MCP server that gives Claude three read-only tools over a bakery's sa
 
 Includes 25 tests, among them nine attempts to sneak around the privacy rules, and a real example session in which the assistant explains revenue changes and margin pressure, then politely refuses to hand over customer emails.
 
-**Link:** GitHub repo (once published)
+**Link:** https://github.com/mjrobbins18/business-data-assistant
